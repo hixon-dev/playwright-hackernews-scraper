@@ -21,7 +21,8 @@ This project uses **Playwright** to scrape the "newest" section of [Hacker News]
 - Debugging scripts with real-time feedback
 
 ## 🖼 Screenshot
-_Add a screenshot of your script running or terminal output_
+<img width="888" alt="image" src="https://github.com/user-attachments/assets/a58dd79c-1d14-4219-8247-8b089b6073c2" />
+<img width="888" alt="image" src="https://github.com/user-attachments/assets/4ac3222a-58d7-4bc0-a9bc-7453c347063d" />
 
 ---
 
